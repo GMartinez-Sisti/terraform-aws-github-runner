@@ -1291,10 +1291,10 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@types/aws-lambda@^8.10.82":
-  version "8.10.82"
-  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.82.tgz#336062d3270f52d2156eeb7d9e497fd63684572a"
-  integrity sha512-sJo8pz8hu+OzLRAj7Do2g66zYLizWtB3kGK6K45RWmGW+S54XXMoK3sNbvzKXfndBxYiSVExHoCNiSlt2gPmxw==
+"@types/aws-lambda@^8.10.87":
+  version "8.10.87"
+  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.87.tgz#5e90af2d4ffb41d3bf9c97080a5c4700ddf06436"
+  integrity sha512-fMYSgnIjFsTM3huCzqNvZm9gH4kFY5yIEOKYj9VtTG13TYd+wwweTbYAAO8OclcTbpezK+VsHNWIyHiAHgVCJg==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.15"
